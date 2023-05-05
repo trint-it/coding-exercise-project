@@ -1,12 +1,12 @@
-# Coding Exercise Project
+# Coding Exercise Projects
 
 This repository contains small skeleton projects in a number of programming languages. 
 
-It is designed to aid in the coding exercise stage of the Guardian's recruitment process for Software Engineers. 
+It is designed to aid in the coding exercise stage of Trints's recruitment process for Software Engineers. 
 
-To learn more, please see the [repository of exercises](https://github.com/guardian/coding-exercises).
+To learn more, please see the [repository of exercises](https://github.com/trint-it/coding-exercises).
 
-Inspired to work for us? [**Apply now**](http://developers.theguardian.com/join-the-team.html)
+Inspired to work for us? [**Apply now**](https://trint.com/jobs)
 
 ## Setting up your environment
 
@@ -27,7 +27,7 @@ This repository has a directory per language. Each skeleton follows the same str
 
 To get started:
 
-💻 Clone the repo `git clone git@github.com:guardian/coding-exercise-project.git`
+💻 Clone the repo `git clone git@github.com:trint-it/coding-exercise-project.git`
 
 🗂 Switch directories to the language of your choosing
 
