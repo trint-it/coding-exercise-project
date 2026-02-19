@@ -47,5 +47,5 @@ Please raise a PR to add it with:
 The requirement for the `./script` commands is to keep consistency across languages and make it easy to switch between them. 
 Read more [here](https://github.com/github/scripts-to-rule-them-all).
 
-## Note for Guardian interviewers
+## Note for Trint interviewers
 Do not push solutions to the coding exercise as it is a public repository.
